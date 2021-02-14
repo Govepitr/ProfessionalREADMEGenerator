@@ -33,7 +33,7 @@
   🚀 From the root folder of your project, run the following command and provide information based on the questions: `node index.js`
 
   ## Repository
-  :octocat: ProfessionalREADMEGenerator
+  :octocat: [Professional README Generator](https://github.com/ProfessionalREADMEGenerator)
 
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-success)
@@ -53,5 +53,5 @@
     <br />
     📜 Feel free to email me with any questions: dan@arbelo.me<br /><br />
 
-    _This README was generated with the power of 💞 by ✨[Professional README Generator](https://github.com/Govepitr/ProfessionalREADMEGenerator) 🤘 🤘 🤘_
+  _This README was generated with the power of 💞 by ✨[Professional README Generator](https://github.com/Govepitr/ProfessionalREADMEGenerator) 🤘 🤘 🤘_
   

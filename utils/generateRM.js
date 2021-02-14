@@ -34,7 +34,7 @@ function generateRM(answers) {
   🚀 ${answers.usage}
 
   ## Repository
-  :octocat: ${answers.repoName}
+  :octocat: [${answers.projectTitle}](https://github.com/${answers.repoName})
 
   ## License
   ![badge](https://img.shields.io/badge/license-${answers.license}-success)
@@ -54,7 +54,7 @@ function generateRM(answers) {
     <br />
     📜 Feel free to email me with any questions: ${answers.email}<br /><br />
 
-    _This README was generated with the power of 💞 by ✨[Professional README Generator](https://github.com/Govepitr/ProfessionalREADMEGenerator) 🤘 🤘 🤘_
+  _This README was generated with the power of 💞 by ✨[Professional README Generator](https://github.com/Govepitr/ProfessionalREADMEGenerator) 🤘 🤘 🤘_
   `;
 }
 
