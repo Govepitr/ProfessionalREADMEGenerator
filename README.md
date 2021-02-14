@@ -54,5 +54,5 @@
     <br />
     📜 Feel free to email me with any questions: dan@arbelo.me<br /><br />
 
-    _This README was generated with the power of 💞 by ✨[ProfessionalREADMEGenerator](https://github.com/Govepitr/ProfessionalREADMEGenerator/) 🤘 🤘 🤘_
+    
   
