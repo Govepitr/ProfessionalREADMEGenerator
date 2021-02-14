@@ -35,7 +35,7 @@ function generateRM(answers) {
   ✏️ ${answers.tests}
 
   ## Questions
-  🔧 ${answers.questions}<br />
+  :question: ${answers.questions}<br />
     <br />
     :octocat: Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
     <br />
