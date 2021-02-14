@@ -3,7 +3,7 @@ function generateRM(answers) {
   <h1 align="center">${answers.projectTitle} </h1>
   
   <p align="center">
-    ![badge](https://img.shields.io/badge/license-${answers.license}-success)
+    <img src="https://img.shields.io/badge/license-${answers.license}-success" />
   </p>  
   
   <p align="center">
