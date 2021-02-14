@@ -34,7 +34,7 @@ function generateRM(answers) {
   🚀 ${answers.usage}
 
   ## Repository
-  :octocat: [${answers.projectTitle}](https://github.com/${answers.userName}/${answers.repoName})
+  :octocat: [${answers.projectTitle}](https://github.com/${answers.username}/${answers.repoName})
 
   ## License
   ![badge](https://img.shields.io/badge/license-${answers.license}-success)
