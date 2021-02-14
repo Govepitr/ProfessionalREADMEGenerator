@@ -58,7 +58,9 @@
   ## Contributors
   👥<br />
   
-  :octocat: [Dan Arbelo](https://github.com/govepitr), :octocat: [Kashay Arbelo](https://github.com/KashCodes)
+  :octocat: [Dan Arbelo](https://github.com/govepitr)<br />
+  
+  :octocat: [Kashay Arbelo](https://github.com/KashCodes)
 
 
   ## Questions
