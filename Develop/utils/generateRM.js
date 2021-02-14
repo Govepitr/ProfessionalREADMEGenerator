@@ -4,7 +4,7 @@ function generateRM(answers) {
   
   
   ## Description
-    ${answers.description}
+  ❓ ${answers.description}
 
   
   ## Table of Contents
@@ -17,10 +17,10 @@ function generateRM(answers) {
   - [Questions](#questions)
 
   ## Installation
-    ${answers.installation}
+  🚨 ${answers.installation}
 
   ## Usage
-    ${answers.usage}
+  🚀 ${answers.usage}
 
   ## License
   ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
@@ -28,19 +28,19 @@ function generateRM(answers) {
   This application is covered by the ${answers.license} license.
 
   ## Contributors
-    ${answers.contributors}
+  👥 ${answers.contributors}
 
   ## Tests
-    ${answers.tests}
+  ✏️ ${answers.tests}
 
   ## Questions
-    ${answers.questions}<br />
+  🔧 ${answers.questions}<br />
     <br />
     :octocat: Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
     <br />
-      Feel free to email me with any questions: ${answers.email}<br /><br />
+    📜 Feel free to email me with any questions: ${answers.email}<br /><br />
 
-    _This README was generated with the power of ❤️ by [ProfessionalREADMEGenerator](https://govepitr.github.io/ProfessionalREADMEGenerator/)
+    _This README was generated with the power of 💞 by [ProfessionalREADMEGenerator](https://govepitr.github.io/ProfessionalREADMEGenerator/) 🤘 🤘 🤘
   `;
 }
 
