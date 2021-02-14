@@ -2,7 +2,7 @@
   <h1 align="center">Professional README Generator </h1>
   
   <p align="center">
-    ![badge](https://img.shields.io/badge/license-MIT-success)
+    <img src="https://img.shields.io/badge/license-MIT-success" />
   </p>  
   
   <p align="center">
