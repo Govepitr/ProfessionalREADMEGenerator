@@ -50,7 +50,7 @@ function generateRM(answers) {
     <br />
     📜 Feel free to email me with any questions: ${answers.email}<br /><br />
 
-    _This README was generated with the power of 💞 by ✨[ProfessionalREADMEGenerator](https://govepitr.github.io/ProfessionalREADMEGenerator/) 🤘 🤘 🤘_
+    _This README was generated with the power of 💞 by ✨[Professional README Generator](https://github.com/Govepitr/ProfessionalREADMEGenerator) 🤘 🤘 🤘_
   `;
 }
 
