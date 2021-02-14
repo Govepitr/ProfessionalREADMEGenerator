@@ -18,13 +18,13 @@
   </p>
   
   ## Description
-  ❓ A Node application that allows users to generate professional README.md files.
+  ❓ A node.js application that allows users to generate a professional README.md file for their project's repository. The README.md is created in the dist directory and is located right [here](./dist/README.md)
 
-    Here's a GIF showing the app's overall functionality:
+  :loop: Here's a GIF showing the app's overall functionality:
 
-    ![](./src/ .gif)
+  ![demo](./src/demo.gif)
 
-    For the full functionality, please click the [link](./src .webm)
+  :movie_camera: For the full functionality, please click the [link](./src/demo.webm)
 
   
   ## Table of Contents

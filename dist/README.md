@@ -13,7 +13,7 @@
   </p>
   
   ## Description
-  ❓ A node.js application that allows users to generate professional README.md files.
+  ❓ A Node application that allows users to generate professional README.md files.
 
   
   ## Table of Contents
@@ -26,10 +26,10 @@
   - [Questions](#questions)
 
   ## Installation
-  🚨 npm install inquirer is required
+  🚨 npm init  npm install inquirer
 
   ## Usage
-  🚀 From the root folder of your project, run the following command and provide information based on the questions: 'node index.js'
+  🚀 From the root folder of your project, run the following command and provide information based on the questions: node index.js
 
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-success)
