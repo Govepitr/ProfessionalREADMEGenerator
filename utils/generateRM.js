@@ -2,6 +2,7 @@ function generateRM(answers) {
   return `
   <h1 align="center">${answers.projectTitle} </h1>
   
+  ![badge](https://img.shields.io/badge/license-${answers.license}-success)
   
   ## Description
   ❓ ${answers.description}
@@ -23,7 +24,7 @@ function generateRM(answers) {
   🚀 ${answers.usage}
 
   ## License
-  ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
+  ![badge](https://img.shields.io/badge/license-${answers.license}-success)
   <br />
   This application is covered by the ${answers.license} license.
 
@@ -40,7 +41,7 @@ function generateRM(answers) {
     <br />
     📜 Feel free to email me with any questions: ${answers.email}<br /><br />
 
-    _This README was generated with the power of 💞 by ✨[ProfessionalREADMEGenerator](https://govepitr.github.io/ProfessionalREADMEGenerator/) 🤘 🤘 🤘
+    _This README was generated with the power of 💞 by ✨[ProfessionalREADMEGenerator](https://govepitr.github.io/ProfessionalREADMEGenerator/) 🤘 🤘 🤘_
   `;
 }
 
