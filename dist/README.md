@@ -13,23 +13,27 @@
   </p>
   
   ## Description
-  ❓ A Node application that allows users to generate professional README.md files.
+  ❓ A node.js application that allows users to generate professional README.md files.
 
   
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Repository](#repository)
   - [License](#license)
   - [Contributors](#contributors)
   - [Tests](#tests)
   - [Questions](#questions)
 
   ## Installation
-  🚨 npm init  npm install inquirer
+  🚨 `npm init`  `npm install inquirer`
 
   ## Usage
-  🚀 From the root folder of your project, run the following command and provide information based on the questions: node index.js
+  🚀 From the root folder of your project, run the following command and provide information based on the questions: `node index.js`
+
+  ## Repository
+  :octocat: ProfessionalREADMEGenerator
 
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-success)
@@ -40,7 +44,7 @@
   👥 Dan Arbelo, Kashay Arbelo
 
   ## Tests
-  ✏️ To verify the versions of Node you have installed, type the following: npm list
+  ✏️ To verify the versions of Node you have installed, type the following: `npm list`
 
   ## Questions
   :question: Send me an email or message me on Github :e-mail:<br />
