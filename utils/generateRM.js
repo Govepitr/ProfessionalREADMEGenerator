@@ -21,6 +21,7 @@ function generateRM(answers) {
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Application Repository](#Application Repository)
   - [License](#license)
   - [Contributors](#contributors)
   - [Tests](#tests)
@@ -31,6 +32,9 @@ function generateRM(answers) {
 
   ## Usage
   🚀 ${answers.usage}
+
+  ## Application Repository
+  :octocat: ${answers.repoName}
 
   ## License
   ![badge](https://img.shields.io/badge/license-${answers.license}-success)
