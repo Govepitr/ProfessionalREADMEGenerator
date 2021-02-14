@@ -9,12 +9,12 @@
   </p>
 
   <p align="center">
-    <img src="" />
-    <img src="" />
-    <img src="" />
-    <img src="" />
-    <img src="" />
-    <img src="" />
+    <img src="https://img.shields.io/badge/Javascript-yellow" />
+    <img src="https://img.shields.io/badge/jQuery-orange" />
+    <img src="https://img.shields.io/badge/-node.js-green" />
+    <img src="https://img.shields.io/badge/-inquirer-purple" />
+    <img src="https://img.shields.io/badge/-screencastify-red" />
+    <img src="https://img.shields.io/badge/-json-orange"" />
   </p>
   
   ## Description
@@ -42,7 +42,7 @@
   This application is covered by the MIT license.
 
   ## Contributors
-  👥 Dan Arbelo
+  👥 Dan Arbelo, Kashay Arbelo
 
   ## Tests
   ✏️ To verify the versions of Node you have installed, type the following: npm list
@@ -54,5 +54,5 @@
     <br />
     📜 Feel free to email me with any questions: dan@arbelo.me<br /><br />
 
-    _This README was generated with the power of 💞 by ✨[ProfessionalREADMEGenerator](https://govepitr.github.io/ProfessionalREADMEGenerator/) 🤘 🤘 🤘_
+    _This README was generated with the power of 💞 by ✨[ProfessionalREADMEGenerator](https://github.com/Govepitr/ProfessionalREADMEGenerator/) 🤘 🤘 🤘_
   
