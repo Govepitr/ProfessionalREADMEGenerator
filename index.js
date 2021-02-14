@@ -78,8 +78,8 @@ function promptUser(){
       const answers = await promptUser();
       const generateContent = generateRM(answers);
       //Create name README.md to the dist directory
-      await writeFileAsync("./dist/README.md");
-      console.log("README.md has been successfully created!")
+      await writeFileAsync("./dist/README.md", generateContent);
+      console.log("✨README.md has been successfully created!✨")
     } catch(err) {
       console.log(err);
     }
