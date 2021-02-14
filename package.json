@@ -1,0 +1,25 @@
+{
+  "name": "professionalreadmegenerator",
+  "version": "1.0.0",
+  "description": "Node Application that generates professional grade README.MD files",
+  "main": "index.js",
+  "scripts": {
+    "test": "testNode"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Govepitr/ProfessionalREADMEGenerator.git"
+  },
+  "keywords": [
+    "README"
+  ],
+  "author": "Dan Arbelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Govepitr/ProfessionalREADMEGenerator/issues"
+  },
+  "homepage": "https://github.com/Govepitr/ProfessionalREADMEGenerator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
