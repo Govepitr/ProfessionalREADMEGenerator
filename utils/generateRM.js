@@ -21,7 +21,7 @@ function generateRM(answers) {
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Application Repository](#Application Repository)
+  - [Repository](#repository)
   - [License](#license)
   - [Contributors](#contributors)
   - [Tests](#tests)
@@ -33,7 +33,7 @@ function generateRM(answers) {
   ## Usage
   🚀 ${answers.usage}
 
-  ## Application Repository
+  ## Repository
   :octocat: ${answers.repoName}
 
   ## License
