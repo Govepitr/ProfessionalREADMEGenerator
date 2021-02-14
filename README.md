@@ -64,7 +64,7 @@
 
 
   ## Questions
-  :question: Send me an email or message me on Github 📜 [email](mailto:dan@arbelo.me), :octocat: [GitHub](https://github.com/govepitr)<br />
+  :question: Send me an 📜 [email](mailto:dan@arbelo.me) or message me on :octocat: [Github](https://github.com/govepitr)<br />
     
     
 
