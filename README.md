@@ -2,10 +2,10 @@
   <h1 align="center">Professional README Generator </h1>
   
   <p align="center">
-    <img src="https://img.shields.io/github/repo-size/Govepitr/ProfessionalREADMEGenerator?style=plastic" />
-    <img src="https://img.shields.io/github/languages/count/Govepitr/ProfessionalREADMEGenerator?style=plastic" />
-    <img src="https://img.shields.io/github/languages/top/Govepitr/ProfessionalREADMEGenerator?style=plastic" />
-    <img src="https://img.shields.io/github/last-commit/govepitr/ProfessionalREADMEGenerator?style=plastic" />
+    <img src="https://img.shields.io/github/repo-size/Govepitr/TeamProfileGenerator?style=plastic" />
+    <img src="https://img.shields.io/github/languages/count/Govepitr/TeamProfileGenerator?style=plastic" />
+    <img src="https://img.shields.io/github/languages/top/Govepitr/TeamProfileGenerator?style=plastic" />
+    <img src="https://img.shields.io/github/last-commit/govepitr/TeamProfileGenerator?style=plastic" />
   </p>
 
   <p align="center">
